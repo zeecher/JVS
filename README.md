@@ -16,5 +16,6 @@ JS-Learning
 
 ## Module-Pattern
 * [JavaScript Module Pattern: In-Depth](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)
+* [JavaScript design pattern: difference between module pattern and revealing module pattern?](http://stackoverflow.com/questions/22906662/javascript-design-pattern-difference-between-module-pattern-and-revealing-modul)
 
 
