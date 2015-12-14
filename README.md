@@ -2,9 +2,9 @@ JS-Learning
 ==================
 
 
-
 ### Table of Contents
 [Browserify](#browserify)
+
 [Module-Pattern](#module-pattern)
 
 
