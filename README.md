@@ -9,6 +9,8 @@ JS-Learning
 
 ## Angular
 [Share data between controllers](#share-data-between-controllers)  
+* [AngularJS : Initialize service with asynchronous data](http://stackoverflow.com/questions/16286605/angularjs-initialize-service-with-asynchronous-data)
+
 
 ## Browserify
 * [Cross platform JavaScript with Browserify – Sharing Code Between Node.js and the Browser](https://blog.codecentric.de/en/2014/02/cross-platform-javascript/)
