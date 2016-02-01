@@ -10,6 +10,7 @@ JS-Learning
 ## Angular
 [Share data between controllers](#share-data-between-controllers)  
 * [AngularJS : Initialize service with asynchronous data](http://stackoverflow.com/questions/16286605/angularjs-initialize-service-with-asynchronous-data)
+* [ui-router resume preventedEvent] (http://stackoverflow.com/q/26737829/4042489)
 
 
 ## Browserify
