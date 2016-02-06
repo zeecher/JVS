@@ -7,6 +7,8 @@ JS-Learning
 
 [Module-Pattern](#module-pattern)
 
+[Database-Design](#database-design)
+
 ## Angular
 [Share data between controllers](#share-data-between-controllers)  
 * [AngularJS : Initialize service with asynchronous data](http://stackoverflow.com/questions/16286605/angularjs-initialize-service-with-asynchronous-data)
@@ -21,6 +23,11 @@ JS-Learning
 ## Module-Pattern
 * [JavaScript Module Pattern: In-Depth](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)
 * [JavaScript design pattern: difference between module pattern and revealing module pattern?](http://stackoverflow.com/questions/22906662/javascript-design-pattern-difference-between-module-pattern-and-revealing-modul)
+
+
+Database-Design
+* [Modeling Product Variants](http://stackoverflow.com/questions/24923469/modeling-product-variants)
+
 
 ## Share data between controllers
 * Here is a one-page example of two controllers sharing service data:
