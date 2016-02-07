@@ -27,6 +27,7 @@ JS-Learning
 
 ## Database-Design
 * [Modeling Product Variants](http://stackoverflow.com/questions/24923469/modeling-product-variants)
+* [Product Attribute List DesignPattern](#http://dba.stackexchange.com/questions/24636/product-attribute-list-design-pattern)
 
 
 ## Share data between controllers
